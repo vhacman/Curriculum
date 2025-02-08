@@ -19,14 +19,14 @@
 - 🚀 Miglioramento dell'efficienza del servizio e riduzione dei tempi di attesa
 
 ### 🏨 Property Manager | <span style="color: #9B59B6;">Cazare Casa Andreia</span>
-*Dicembre 2022 - Luglio 2024*
+*Dicembre 2022 - in corso*
 - 💻 Gestione pagina Booking.com per casa vacanze in Romania
 - 📊 Monitoraggio e organizzazione prenotazioni
 - 📆 Aggiornamento costante del calendario
 - 💸 Elaborazione e invio fatture
 - 🤝 Gestione rapporti con clienti e Booking.com
 
-### ⚡ Consulente Energetico | <span style="color: #F39C12;">Ferencgy Group</span>
+### ⚡ Consulente Energetico | <span style="color: #F39C12;">Ferenergy Group</span>
 *Ottobre 2021 - Dicembre 2021*
 - 🤝 Relazione con i clienti
 - 📝 Gestione contratti energetici
