@@ -59,7 +59,6 @@
 
 ## 🛠️ Competenze
 - 🧩 Problem Solving
-- 👑 Leadership
 - ✅ Precisione
 - 👥 Teamwork
 - 🤔 Pensiero Critico
